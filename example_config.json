@@ -7,9 +7,9 @@
   },
   "slack":
   {
-    "token": "",
-    "domain": "your-domain.slack.com",
-    "username": "will",
+    "token": "xoxb-31511964951-dOkJULijBGHzjiWAjUfY28CJ",
+    "domain": “viavia.slack.com",
+    "username": “bot”,
     "channel": "#general"
   },
   "wolfram":
